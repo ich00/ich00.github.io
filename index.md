@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Curriculum Iland Choo
 
 You can use the [editor on GitHub](https://github.com/ich00/ich00.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
